@@ -10,7 +10,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+**A WEB DEVELOPMENT** ***Beginner*** 🚀.
  
   <img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif" />
 
