@@ -12,8 +12,7 @@
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/0a8a1ef6049004a6972d6a6a296996ff/tenor.gif" />
-  <img align="right" alt="GIF" src="https://tenor.com/wGIz.gif" />
+  <img align="right" alt="GIF" src="https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif" />
 
 **About Me!**
 
