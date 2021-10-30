@@ -1,18 +1,22 @@
 ### Hello I'm Brayan Guerrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/_besgo_/">
-  <img align="left" alt="Brayan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Brayan's Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 <a href="https://twitter.com/@BesgoXD">
-  <img align="left" alt="Brayan's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Brayan's Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/brayan-stewart-guerrero-ordo%C3%B1ez-2950a6225/">
+  <img align="left" alt="Brayan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="490" height="300"/>
 
 <br />
 <br />
 
-**A WEB AND MOBILE DEVELOPMENT** ***Beginner*** 🚀
+***A WEB AND MOBILE DEVELOPER BEGINNER*** 🚀
 
 **About Me!**
 
