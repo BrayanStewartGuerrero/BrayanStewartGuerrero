@@ -7,12 +7,12 @@
   <img align="left" alt="Brayan's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320"/>
+
 <br />
 <br />
 
 **A WEB AND MOBILE DEVELOPMENT** ***Beginner*** 🚀.
- 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" height="240"/>
 
 **About Me!**
 
