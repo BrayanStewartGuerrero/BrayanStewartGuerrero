@@ -1,4 +1,4 @@
-<h3 title="hehehe"> ¡Hola! soy Brayan Guerrero 👋</h3>
+### Hello I'm Brayan Guerrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/_besgo_/">
   <img align="left" alt="Brayan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
