@@ -12,7 +12,7 @@
 <br />
 <br />
 
-**A WEB AND MOBILE DEVELOPMENT** ***Beginner*** 🚀.
+**A WEB AND MOBILE DEVELOPMENT** ***Beginner*** 🚀
 
 **About Me!**
 
